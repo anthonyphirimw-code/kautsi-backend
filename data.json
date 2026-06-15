@@ -11,7 +11,7 @@
     "name": "Angel Takondwa Kautsi",
     "tagline": "Writer. Storyteller. Poet.",
     "bio": "Angel Takondwa Kautsi is a writer who weaves stories and poetry that explore the depths of human experience. Her work captures the beauty of everyday moments and the profound truths that connect us all.",
-    "photo_url": "http://localhost:3000/uploads/angie1.jpg",
+    "photo_url": "/uploads/angie1.jpg",
     "email": "angel@kautsi.com"
   },
   "works": [
@@ -24,7 +24,7 @@
       "purchase_url": "",
       "featured": 0,
       "published_date": "2026-06-13",
-      "cover_url": "http://localhost:3000/uploads/1781373810825-Gemini_Generated_Image_vh8td8vh8td8vh8t.png",
+      "cover_url": "/uploads/1781373810825-Gemini_Generated_Image_vh8td8vh8td8vh8t.png",
       "id": 12,
       "created_at": "2026-06-13T18:03:31.351Z",
       "updated_at": "2026-06-13T18:03:31.351Z"
@@ -35,7 +35,7 @@
       "description": "A collection of verses born from the fragments of who I was, the battles I faced in silence, the growth in the dark, and the becoming I never saw coming.",
       "purchase_url": "https://www.amazon.com/dp/",
       "featured": 1,
-      "cover_url": "http://localhost:3000/uploads/1781375520380-peices-of-me-book-pics.jpg",
+      "cover_url": "/uploads/1781375520380-peices-of-me-book-pics.jpg",
       "id": 13,
       "created_at": "2026-06-13T18:32:00.523Z",
       "updated_at": "2026-06-13T21:31:21.604Z"
@@ -93,27 +93,27 @@
   "gallery": [
     {
       "id": 20,
-      "url": "http://localhost:3000/uploads/angie1.jpg",
+      "url": "/uploads/angie1.jpg",
       "uploaded_at": "2026-06-13T18:37:24.254Z"
     },
     {
       "id": 21,
-      "url": "http://localhost:3000/uploads/IMG-20260225-WA0043.jpg",
+      "url": "/uploads/IMG-20260225-WA0043.jpg",
       "uploaded_at": "2026-06-13T18:37:24.304Z"
     },
     {
       "id": 22,
-      "url": "http://localhost:3000/uploads/IMG-20260313-WA0001.jpg",
+      "url": "/uploads/IMG-20260313-WA0001.jpg",
       "uploaded_at": "2026-06-13T18:37:24.305Z"
     },
     {
       "id": 23,
-      "url": "http://localhost:3000/uploads/IMG-20260313-WA0003.jpg",
+      "url": "/uploads/IMG-20260313-WA0003.jpg",
       "uploaded_at": "2026-06-13T18:37:24.305Z"
     },
     {
       "id": 24,
-      "url": "http://localhost:3000/uploads/IMG-20260523-WA0029.jpg",
+      "url": "/uploads/IMG-20260523-WA0029.jpg",
       "uploaded_at": "2026-06-13T18:37:24.306Z"
     }
   ]

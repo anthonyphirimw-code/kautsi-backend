@@ -47,7 +47,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/uploads', express.static(uploadsDir));
 
 function fileUrl(file) {
-  return file ? API_URL + '/uploads/' + file.filename : null;
+  return file ? '/uploads/' + file.filename : null;
 }
 
 function auth(req, res, next) {
