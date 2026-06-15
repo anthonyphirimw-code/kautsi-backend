@@ -1,0 +1,21 @@
+{
+  "name": "kautsi-api",
+  "version": "1.0.0",
+  "description": "Kautsi author website API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "seed": "node seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.1.1",
+    "sql.js": "^1.14.1"
+  }
+}

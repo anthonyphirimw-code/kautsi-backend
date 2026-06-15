@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password_hash": "$2b$10$tTOKpN4wt3xxHS7haS/PQuLMwnrOxSFk51w8bJzXvpCKBO/VzHjPC"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "name": "Angel Takondwa Kautsi",
+    "tagline": "Writer. Storyteller. Poet.",
+    "bio": "Angel Takondwa Kautsi is a writer who weaves stories and poetry that explore the depths of human experience. Her work captures the beauty of everyday moments and the profound truths that connect us all.",
+    "photo_url": "http://localhost:3000/uploads/angie1.jpg",
+    "email": "angel@kautsi.com"
+  },
+  "works": [
+    {
+      "title": "LOOP",
+      "type": "poem",
+      "description": "",
+      "content": "I tied my laces twice,\r\nAnd both times,\r\nThe knot untied itself before I could stand,\r\nAs if the floor refused to let me leave.\r\nHolding me in place.\r\nThe time seemed to lag.\r\nAn endless loop.\r\nYet frozen in time",
+      "excerpt": "",
+      "purchase_url": "",
+      "featured": 0,
+      "published_date": "2026-06-13",
+      "cover_url": "http://localhost:3000/uploads/1781373810825-Gemini_Generated_Image_vh8td8vh8td8vh8t.png",
+      "id": 12,
+      "created_at": "2026-06-13T18:03:31.351Z",
+      "updated_at": "2026-06-13T18:03:31.351Z"
+    },
+    {
+      "title": "Pieces of me",
+      "type": "book",
+      "description": "A collection of verses born from the fragments of who I was, the battles I faced in silence, the growth in the dark, and the becoming I never saw coming.",
+      "purchase_url": "https://www.amazon.com/dp/",
+      "featured": 1,
+      "cover_url": "http://localhost:3000/uploads/1781375520380-peices-of-me-book-pics.jpg",
+      "id": 13,
+      "created_at": "2026-06-13T18:32:00.523Z",
+      "updated_at": "2026-06-13T21:31:21.604Z"
+    }
+  ],
+  "social_links": [
+    {
+      "id": 10,
+      "platform": "Instagram",
+      "url": "https://instagram.com/angeltakondwa",
+      "icon": "instagram",
+      "sort_order": 1
+    },
+    {
+      "id": 11,
+      "platform": "TikTok",
+      "url": "https://tiktok.com/@angeltakondwa",
+      "icon": "tiktok",
+      "sort_order": 2
+    },
+    {
+      "id": 12,
+      "platform": "Twitter",
+      "url": "https://twitter.com/angeltakondwa",
+      "icon": "twitter",
+      "sort_order": 3
+    },
+    {
+      "id": 13,
+      "platform": "Wattpad",
+      "url": "https://wattpad.com/user/angeltakondwa",
+      "icon": "book",
+      "sort_order": 4
+    }
+  ],
+  "sections": {
+    "hero_subtitle": {
+      "key": "hero_subtitle",
+      "title": "Hero Subtitle",
+      "content": "Discover the beauty of words through stories and poetry that touch the soul.",
+      "updated_at": "2026-06-13T12:11:44.716Z"
+    },
+    "hero_about_text": {
+      "key": "hero_about_text",
+      "title": "About Text",
+      "content": "Angel Takondwa Kautsi is a writer from Malawi, passionate about storytelling in all its forms.",
+      "updated_at": "2026-06-13T12:11:44.716Z"
+    }
+  },
+  "nextId": {
+    "works": 15,
+    "social_links": 14,
+    "gallery": 25
+  },
+  "gallery": [
+    {
+      "id": 20,
+      "url": "http://localhost:3000/uploads/angie1.jpg",
+      "uploaded_at": "2026-06-13T18:37:24.254Z"
+    },
+    {
+      "id": 21,
+      "url": "http://localhost:3000/uploads/IMG-20260225-WA0043.jpg",
+      "uploaded_at": "2026-06-13T18:37:24.304Z"
+    },
+    {
+      "id": 22,
+      "url": "http://localhost:3000/uploads/IMG-20260313-WA0001.jpg",
+      "uploaded_at": "2026-06-13T18:37:24.305Z"
+    },
+    {
+      "id": 23,
+      "url": "http://localhost:3000/uploads/IMG-20260313-WA0003.jpg",
+      "uploaded_at": "2026-06-13T18:37:24.305Z"
+    },
+    {
+      "id": 24,
+      "url": "http://localhost:3000/uploads/IMG-20260523-WA0029.jpg",
+      "uploaded_at": "2026-06-13T18:37:24.306Z"
+    }
+  ]
+}
